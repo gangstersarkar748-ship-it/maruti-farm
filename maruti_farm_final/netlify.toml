@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+# NOTE: This static Netlify config publishes the website only.
+# The Express/Razorpay booking server must run on a Node.js host with persistent disk.
